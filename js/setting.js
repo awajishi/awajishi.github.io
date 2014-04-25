@@ -31,7 +31,7 @@ OpenSpending.Styles.Cofog = {
   '20140400': { icon: 'icons/primary.svg', color: '#C75746', bcolor: '#4E6D00' },
   '20140401': { icon: 'icons/culture.svg', color: '#C75746', bcolor: '#4E6D00' },
   '20140402': { icon: 'icons/culture.svg', color: '#C75746', bcolor: '#D33673' },
-  '20140403': { icon: 'icons/public-dept.svg', color: '#C75746', bcolor: '#D33673' },
+  '20140403': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#D33673' },
 
   '20140500': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#D33673' },
   '20140501': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#D33673' },
@@ -42,7 +42,7 @@ OpenSpending.Styles.Cofog = {
   '20140700': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#2A3A03'  },
   '20140701': { icon: 'icons/railways.svg', color: '#C75746', bcolor: '#EC2406' },
   '20140702': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#EC2406' },
-  '20140703': { icon: 'icons/public-dept.svg', color: '#C75746', bcolor: '#938626' },
+  '20140703': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#938626' },
 
   '20140800': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
   '20140801': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#C75746' },
@@ -61,7 +61,7 @@ OpenSpending.Styles.Cofog = {
 '20141101': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#790586' },
 '20141102': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#790586' },
 '20141103': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#790586' },
-'20141104': { icon: 'icons/financial-adminsvg', color: '#C75746', bcolor: '#790586' }
+'20141104': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#790586' }
 };
 
 

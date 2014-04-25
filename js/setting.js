@@ -54,13 +54,14 @@ OpenSpending.Styles.Cofog = {
 
   '20141000': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
   '20141001': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#790586' },
- '20141002': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
- '20141003': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
- '20141100': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-'20141101': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-'20141102': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-'20141103': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-'20141104': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+ '20141002': { icon: 'icons/anchor.svg', color: '#C75746', bcolor: '#790586' },
+ '20141003': { icon: 'icons/foreign-military-aidsvg', color: '#C75746', bcolor: '#790586' },
+ 
+ '20141100': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#790586' },
+'20141101': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#790586' },
+'20141102': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#790586' },
+'20141103': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#790586' },
+'20141104': { icon: 'icons/financial-adminsvg', color: '#C75746', bcolor: '#790586' }
 };
 
 
